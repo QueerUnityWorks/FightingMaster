@@ -278,7 +278,7 @@ MonoBehaviour:
   enemyScore: 1
   currentHp: 10
   maxHp: 10
-  dropChance: 20
+  dropChance: 67
   lootPrefab: {fileID: 8153935999361937003, guid: 1a8e4904dd8f5c546b29854ba6a9764d, type: 3}
   dropOffset: {x: 0, y: 0, z: 0}
 --- !u!114 &7815130169695804519

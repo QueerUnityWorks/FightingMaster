@@ -279,7 +279,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthText: {fileID: 613762575}
-  atk: 2
+  atk: 4
   weaponRange: 1
   konckForce: 5
   konckTime: 0.15
@@ -4785,7 +4785,7 @@ Tilemap:
       - {fileID: 283860099, guid: 589e3738b3bcefb40a1977be64a6e17c, type: 3}
       - {fileID: 802519820, guid: 589e3738b3bcefb40a1977be64a6e17c, type: 3}
       - {fileID: 1324037019, guid: 589e3738b3bcefb40a1977be64a6e17c, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: -2, z: 0}
@@ -10940,7 +10940,7 @@ Tilemap:
       - {fileID: 719886205, guid: 5f7b1d1f78a9291408d1568fad402ac3, type: 3}
       - {fileID: -450395899, guid: 5f7b1d1f78a9291408d1568fad402ac3, type: 3}
       - {fileID: 761771014, guid: 5f7b1d1f78a9291408d1568fad402ac3, type: 3}
-      m_AnimationSpeed: 5.0000005
+      m_AnimationSpeed: 5
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 5, y: 3, z: 0}

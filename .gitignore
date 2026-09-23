@@ -34,6 +34,12 @@
 # Visual Studio cache directory
 .vs/
 
+# Visual Studio Code workspace settings
+.vscode/
+
+# Claude Code local settings
+.claude/
+
 # Gradle cache directory
 .gradle/
 
